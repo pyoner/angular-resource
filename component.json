@@ -9,8 +9,8 @@
   },
   "development": {},
   "license": "MIT",
-  "main": "angular-resource.js",
+  "main": "index.js",
   "scripts": [
-    "angular-resource.js"
+    "index.js"
   ]
 }
