@@ -1,0 +1,16 @@
+{
+  "name": "angular-resource",
+  "repo": "pyoner/angular-resource",
+  "description": "AngularJS for Component, resource module",
+  "version": "1.0.6",
+  "keywords": ["angular", "angularjs", "component", "component.io", "resource"],
+  "dependencies": {
+    "pyoner/angular": "1.0.6"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "angular-resource.js",
+  "scripts": [
+    "angular-resource.js"
+  ]
+}
